@@ -9,5 +9,5 @@ Aplicação do algoritmo Gaussian Naive Bayes em um problema de classificação 
 
 📘 naive_bayes_census.ipynb
 
-Aplicação do algoritmo **Gaussian Naive Bayes** em um problema de classificação de renda. O estudo contempla **análise exploratória dos dados, transformação das variáveis categóricas por One-Hot Encoding, divisão dos dados em treino e teste, treinamento do modelo e avaliação por meio de matriz de confusão e acurácia**.
+Aplicação do algoritmo Gaussian Naive Bayes em um problema de classificação de renda. O estudo contempla análise exploratória dos dados, transformação das variáveis categóricas por One-Hot Encoding, divisão dos dados em treino e teste, treinamento do modelo e avaliação por meio de matriz de confusão e acurácia.
 
